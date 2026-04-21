@@ -30,7 +30,7 @@ export default defineConfig({
     prefetchAll: true,
   },
   // !IMPORTANT: Set site url property with your own domain
-  site: 'https://riceball-tw.github.io',
+  site: 'https://mavorin.dev',
   build: {
     inlineStylesheets: 'always',
   },
